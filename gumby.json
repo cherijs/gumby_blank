@@ -1,0 +1,10 @@
+{
+    "build": {
+        "gumbyPath": "bower_components/gumby",
+        "modules": ["toggleswitch"],
+        "addons": [
+
+        ],
+        "outPath": "js"
+    }
+}
